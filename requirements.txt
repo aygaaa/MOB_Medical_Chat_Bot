@@ -1,0 +1,11 @@
+ctransformers
+sentence-transformers
+pinecone-client==2.2.4
+langchain
+flask
+pypdf
+bitsandbytes 
+unstructured
+numpy==1.24.4
+python-dotenv
+-e .
